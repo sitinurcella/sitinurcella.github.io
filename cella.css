@@ -1,2 +1,5 @@
-body{background-color: Beige}
-h1 {background color: MediumSeaGreen; border: 2px dashed black; opacity: 0.5; color: black; }
+body{background-image: url(123.jpg); background-repeat: repeat;
+h1 {background color: PaleTurquoise; border: 2px dashed black; opacity: 0.5; color: black;}
+h2 	{color: White;}
+p  {background-color: LightCoral; background-color: LightBlue;}
+h3 {color: DarkRed; color: DarkSlateBlue}
